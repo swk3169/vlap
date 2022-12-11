@@ -11,9 +11,9 @@
   "dependencies": {
     "@google-cloud/vision": "^0.25.0",
     "@google/maps": "^0.5.5",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "crypto-js": "^3.1.9-1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.4.0",
