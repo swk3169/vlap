@@ -16,7 +16,7 @@
     "express": "^4.16.4",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "method-override": "^3.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.4.13",
